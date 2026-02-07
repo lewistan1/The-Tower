@@ -110,6 +110,7 @@ This project combines **embedded systems**, **mobile app development**, and **in
 <img width="287" height="495" alt="image" src="https://github.com/user-attachments/assets/f8b531a7-e2dd-4d0d-b2df-6b6aa5e46edf" />
 <img width="460" height="487" alt="image" src="https://github.com/user-attachments/assets/e7abc099-241d-44cf-8a2f-1dfdfb4c9d6f" />
 <img width="650" height="648" alt="Screenshot 2025-11-17 145646" src="https://github.com/user-attachments/assets/6eb6d9c4-041b-47aa-9cb0-29ae564d3dc0" />
+<img width="1229" height="677" alt="image" src="https://github.com/user-attachments/assets/e78a004c-40eb-44da-a90e-aa1ec3e6fa1d" />
 
 
 ---
